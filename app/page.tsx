@@ -1,7 +1,9 @@
+import { Header } from '@/components';
+
 const Home = () => {
   return (
     <main>
-      <h1>Jello</h1>
+      <Header />
     </main>
   );
 };
